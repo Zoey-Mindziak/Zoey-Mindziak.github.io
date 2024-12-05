@@ -1,0 +1,6 @@
+:root, [data-bs-theme=light] {
+  --bs-body-font-family: Allison, serif;
+  --bs-link-color: #374af4;
+  --bs-link-color-rgb: 55,74,244;
+}
+
